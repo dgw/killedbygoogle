@@ -1933,5 +1933,13 @@
     "link": "https://en.wikipedia.org/wiki/Google_Bookmarks",
     "name": "Google Bookmarks",
     "type": "service"
+  },
+  {
+    "dateClose": "2021-10-01",
+    "dateOpen": "2020-11-18",
+    "description": "Google Plex was a full-fledged banking service that never made it to a public launch.",
+    "link": "https://9to5google.com/2021/10/01/google-pay-abandons-plans-for-plex-bank-accounts-w-400000-on-the-waitlist/",
+    "name": "Google Plex",
+    "type": "service"
   }
 ]
